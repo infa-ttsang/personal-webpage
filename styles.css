@@ -37,6 +37,7 @@ button {
 
 button:hover {
 	background-color: #E8E8E8;
+	cursor: pointer;
 	color: black;
 }
 
@@ -55,8 +56,8 @@ h1.one {
 	font-weight: normal;
 	font-variant: small-caps;
 	font-size: 80px;
-	margin-left:75px;
-	padding-top:  150px;
+	margin-left: 65px;
+	padding-top: 100px;
 }
 
 h2 {
