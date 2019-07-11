@@ -20,6 +20,16 @@ a {
 	text-decoration: none;
 }
 
+a:link {
+color: #5D6D7E;
+}
+a:visited {
+color: #5D6D7E;
+}
+a:hover {
+color: #78281F;
+}
+
 hr {
 	width: 90%;
 }
