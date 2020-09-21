@@ -109,10 +109,20 @@ div.one {
 
 .col1 {
 	float:left;
-	width: 30%;
+	width: 33%;
 	height: auto;
 	margin: 0 auto;
-	margin-left: 20px;
+	margin-left: auto;
+	position: relative;
+	text-align: center;
+}
+
+.col2 {
+	float:left;
+	width: 23%;
+	height: auto;
+	margin: 0 auto;
+	margin-left: 0px;
 	position: relative;
 	text-align: center;
 }
